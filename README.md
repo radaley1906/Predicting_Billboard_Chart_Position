@@ -4,3 +4,5 @@ This repository contains files related to an analysis of music data from Spotify
 
 Ever since I departed ways from the music industry, I have always wandered - "Is there was a quantitative way to predict the success of a song?" and "What are those important audio characteristics of those hit songs on the Billboard in the United States?" To answer these questions, I used a linear regression with lasso regualization to predict what a new song's peak rank position will be given a set of audio characteristics. 
 
+To read more about the project, including how the model performed, visit my [blog](https://radaley1906.wixsite.com/raddatascience/post/will-i-ever-make-it-in-the-music-industry).
+

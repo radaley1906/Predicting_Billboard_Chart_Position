@@ -1,4 +1,4 @@
-# Predicting Peak Music Chart Position
+# Predicting Billboard Chart Position
 
 This repository contains files related to an analysis of music data from Spotify's Web API to create a model to predict a song's peak rank on the Billboard top 100.  I love music and I love listening to new music. In High School, my friends and I started a rap group and made music after school. The group didn't last long because we all went our separate ways after high school.  
 
